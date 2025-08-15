@@ -30,7 +30,7 @@
 
 ---
 
-## 🔧 Tecnologias que uso
+## 🔧 Tecnologias 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  📫 <b>Contato:</b> seuemail@exemplo.com
+  📫 <b>Contato:</b> kaykyhedeirchdev@gmail.com
 </p>
